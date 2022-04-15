@@ -1,5 +1,3 @@
-// Kseniia Salko
-// SPC ID 2431072 
 
 package salko19;
 
@@ -67,5 +65,3 @@ public class Program19_5 {
 	}
 
 }
-
-//I worked alone!
